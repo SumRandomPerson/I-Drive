@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Followplayer : MonoBehaviour
+public class FollowCar : MonoBehaviour
 {
 
     public GameObject car;
